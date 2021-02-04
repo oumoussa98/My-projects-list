@@ -1,14 +1,14 @@
-#### A list of awesome things that i have build during my learning journey
+## A list of awesome things that i have build during my learning journey :star_struck:
 
-- Pure PHP projects
 
+### Pure PHP projects
   - [Management tool](https://github.com/oumoussa98/tool-for-management)
   - [Blog](https://github.com/oumoussa98/blog-with-php)
 
-- Laravel (PHP framework)
+### Laravel (PHP framework)
   - [Blog](https://github.com/oumoussa98/Blog-laravel)
 
-> vanilla javascript projects
+### vanilla javascript projects
 
 - Find the number game
   - [Source code](https://github.com/oumoussa98/javascript-game)
@@ -22,7 +22,7 @@
   - [Source code](https://github.com/oumoussa98/online-dama)
   - [Demo on netlify](https://online-dama.netlify.app/)
 
-> vuejs, gridsome projects
+### vuejs, gridsome projects
 
 - My personal website
 
