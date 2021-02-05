@@ -10,11 +10,11 @@
 
 - Find the number game
   - [Source code](https://github.com/oumoussa98/javascript-game)
-  - [Code pen](https://codepen.io/oumoussa98/pen/rNxZQKa)
+  - [CodePen](https://codepen.io/oumoussa98/pen/rNxZQKa)
   - [Demo on netlify](https://javascript-game1.netlify.app/)
 - calculator
   - [Source code](https://github.com/oumoussa98/javascript-calculator)
-  - [Code pen](https://codepen.io/oumoussa98/pen/JjGwbMv)
+  - [CodePen](https://codepen.io/oumoussa98/pen/JjGwbMv)
   - [Demo on netlify](https://javascript-calculator1.netlify.app)
 - A Moroccan game called dama
   - [Source code](https://github.com/oumoussa98/online-dama)
