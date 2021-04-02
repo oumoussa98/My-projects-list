@@ -36,3 +36,9 @@
 - Social network website
   - [Source code](https://github.com/awbx/UpTech)
   - [Demo on netlify](https://up-tech.netlify.com)
+
+>### Nuxtjs projects
+
+- My personal website V2
+  - [Source code](https://github.com/oumoussa98/portfolio)
+  - [Demo on netlify](https://oumoussa98.tech/)
